@@ -1,8 +1,6 @@
 # Handwritten-Digits-Classifier-with-PyTorch
 
-#### **MNIST Neural Network**
-
-This project is designed to help you build your own custom neural network architecture to classify handwritten digits from the MNIST dataset. The MNIST dataset is a popular benchmark for image recognition tasks and achieving high accuracy on this dataset is a good indication that your model is functioning well. 
+This project is designed to help you build your own custom neural network architecture to classify handwritten digits from the MNIST database of handwritten digits. The MNIST dataset is a popular benchmark for image recognition tasks and achieving high accuracy on this dataset is a good indication that your model is functioning well.
 
 #### **Introduction**
 
@@ -10,7 +8,10 @@ In this project, you will  construct a neural network  using Python libraries to
 
 #### **MNIST Dataset**
 
-The MNIST dataset consists of 70,000 images of handwritten digits, each labeled with the corresponding digit it represents. The images are 28x28 pixels in grayscale format. 
+The MNIST database of handwritten digits consists of 70,000 images, each labeled with the corresponding digit it represents. The images are 28x28 pixels in grayscale format.
+
+![image](https://github.com/user-attachments/assets/734f0c39-6b8a-4b41-b110-89f51e9748ac)
+
 
 #### **Requirements**
 
